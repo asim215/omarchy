@@ -1,0 +1,37 @@
+# My extra packeges which I use
+
+# terminal
+foot
+foot-terminfo
+# editor
+helix
+# file manager
+yazi
+# shell
+nushell
+# update mirrors
+reflector
+# local AI
+ollama
+# torrent
+qbittorrent
+# web browser
+vivaldi
+vivaldi-ffmpeg-codecs
+# pdf, djvu, epub viewer
+zathura
+zathura-pdf-mupdf
+zathura-djvu
+# terminal multiplexer
+zellij
+# research manager
+zotero-bin
+# backup
+rustic
+# messaging
+telegram-desktop
+# launcher
+vicinae-bin
+
+# others
+qt6-wayland

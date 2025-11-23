@@ -1,8 +1,6 @@
 # Omarchy core package list installed via install/packaging/base.sh
 # This file is also used by the ISO builder when determining needs
 
-1password-beta
-1password-cli
 aether
 asdcontrol
 avahi
@@ -87,7 +85,6 @@ omarchy-chromium
 omarchy-nvim
 omarchy-walker
 pamixer
-pinta
 playerctl
 plocate
 plymouth
@@ -103,15 +100,13 @@ ruby
 rust
 satty
 sddm
-signal-desktop
 slurp
-spotify
 starship
 sushi
 swaybg
 swayosd
 system-config-printer
-tldr
+tealdeer
 tree-sitter-cli
 tobi-try
 ttf-cascadia-mono-nerd
@@ -136,7 +131,6 @@ xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdg-terminal-exec
 xmlstarlet
-xournalpp
 yaru-icon-theme
 yay
 zoxide
