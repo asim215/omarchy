@@ -96,8 +96,7 @@ python-poetry-core
 python-terminaltexteffects
 qt5-wayland
 ripgrep
-ruby
-rust
+rustup
 satty
 sddm
 slurp
@@ -112,7 +111,6 @@ tobi-try
 ttf-cascadia-mono-nerd
 ttf-ia-writer
 ttf-jetbrains-mono-nerd
-typora
 tzupdate
 ufw
 ufw-docker

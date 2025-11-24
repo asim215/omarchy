@@ -32,6 +32,10 @@ rustic
 telegram-desktop
 # launcher
 vicinae-bin
+# disk usage of dirs
+dua-cli
+# disks health monitor
+smartmontools
 
 # others
 qt6-wayland
