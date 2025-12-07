@@ -24,7 +24,7 @@ Added:
 - [x] update mirrors: reflector
 - [x] local AI: ollama
 - [x] torrent: qbittorrent
-- [x] web browser: vivaldi
+- [x] web browser: vivaldi, google-chrome
 - [x] pdf, djvu, epub viewer: zathura
 - [x] terminal multiplexer: zellij
 - [x] research manager: zotero
@@ -33,6 +33,12 @@ Added:
 - [x] launcher: vicinae
 - [x] disk usage: dua-cli
 - [x] disks health monitor: smartmontools
+- [x] git summary: onefetch
+- [x] cli calculator: kalker
+- [x] kanban board: kanri
+- [x] keyboard software remap: kanata
+- [x] aur helper: paru
+- [x] documentation for developers: devdocs-desktop
 
 
 ## Plans
@@ -46,7 +52,7 @@ Added:
 - [ ] engram keyboard
 - [ ] vicinae launcher default
 - [ ] virtual manager libvirt
-- [ ] remote desktop: rustdesk
+- [ ] remote desktop: rustdesk-bin
 - [ ] monitoring: bottom
 - [ ] screen recording: kooha
 - [ ] add fan control for amd gpu cards
@@ -59,5 +65,8 @@ Added:
 - [ ] ?keybindings
 - [ ] ?vial
 - [ ] ?dotfile manager: stow, dfm, yadm, Dotter, dotm, doot
-- [ ] ?kanban manager: rust-kanban, kanri, taskell
+- [ ] ?video player: kokovp?
+- [ ] ?search and install pacman packages: pacseek or pacseek-bin
+- [ ] logout screen: wleave-git
+- [ ] agentic ai terminal: warp-terminal-bin
 

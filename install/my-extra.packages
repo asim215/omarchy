@@ -18,6 +18,7 @@ qbittorrent
 # web browser
 vivaldi
 vivaldi-ffmpeg-codecs
+google-chrome
 # pdf, djvu, epub viewer
 zathura
 zathura-pdf-mupdf
@@ -36,6 +37,17 @@ vicinae-bin
 dua-cli
 # disks health monitor
 smartmontools
-
+# git summary
+onefetch
+# cli calculator
+kalker-bin
+# kanban board
+kanri-bin
+# keyboard software remap
+kanata-bin
+# aur helper
+paru
+# documentation for developers
+devdocs-desktop
 # others
 qt6-wayland
