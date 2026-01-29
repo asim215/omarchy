@@ -6,7 +6,7 @@ if command -v eza &> /dev/null; then
   alias lta='lt -a'
 fi
 
-alias ff="fzf --preview 'bat --style=numbers --color=always {}'"
+alias fz="fzf --preview 'bat --style=numbers --color=always {}'"
 
 if command -v zoxide &> /dev/null; then
   alias cd="zd"
@@ -35,9 +35,11 @@ alias c='opencode'
 alias d='docker'
 alias r='rails'
 n() { if [ "$#" -eq 0 ]; then nvim .; else nvim "$@"; fi; }
+alias ff='fastfetch'
 
 # Git
 alias g='git'
 alias gcm='git commit -m'
 alias gcam='git commit -a -m'
 alias gcad='git commit -a --amend'
+

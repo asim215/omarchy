@@ -1,0 +1,53 @@
+# My extra packeges which I use
+
+# terminal
+foot
+foot-terminfo
+# editor
+helix
+# file manager
+yazi
+# shell
+nushell
+# update mirrors
+reflector
+# local AI
+ollama
+# torrent
+qbittorrent
+# web browser
+vivaldi
+vivaldi-ffmpeg-codecs
+google-chrome
+# pdf, djvu, epub viewer
+zathura
+zathura-pdf-mupdf
+zathura-djvu
+# terminal multiplexer
+zellij
+# research manager
+zotero-bin
+# backup
+rustic
+# messaging
+telegram-desktop
+# launcher
+vicinae-bin
+# disk usage of dirs
+dua-cli
+# disks health monitor
+smartmontools
+# git summary
+onefetch
+# cli calculator
+kalker-bin
+# kanban board
+kanri-bin
+# keyboard software remap
+kanata-bin
+# aur helper
+paru
+# documentation for developers
+devdocs-desktop
+# others
+qt6-wayland
